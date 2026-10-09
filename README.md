@@ -1,9 +1,8 @@
 ## Hi there, I'm Nabilla 👋
 
-🌱 Fresh Graduate  
 📊 Aspiring Data Analyst  
-🧪 Background in Chemistry & Management  
-📚 Currently learning SQL, Python, and Tableau  
+🧪 Background in Management  
+📚 Currently learning SQL, Python, Tableau, Power BI, Looker Studio
 ✨ Passionate about turning data into insights  
 ☕ Love meaningful projects, communities, and creative ideas  
 
